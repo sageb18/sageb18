@@ -18,7 +18,7 @@
 Python | JavaScript | HTML | CSS | SQL
 
 ### 🖥️  **Frameworks & Libraries** 
-Tailwind CSS | Flask
+Bootstrap | Sass | Tailwind CSS | Flask 
 
 ### 📊  **Tools & Platforms** 
 Git | VS Code | Figma | Adobe Photoshop CS6
