@@ -2,26 +2,26 @@
 
 ## 🚀 **About Me**
 
-💡 I'm a first-year Computer Science student at California State University, Long Beach who's passionate about technology and problem-solving. I enjoy building web applications and exploring new areas of computer science. 
+💡 I'm a second-year Computer Science student at Orange Coast College who's passionate about technology and problem-solving. I enjoy building applications using Java and Spring Boot.
 
 ---
 
 ## 🔥 **What I'm Up To**
 
-✨ Currently, I'm diving deeper into web development and starting to explore the fascinating world of machine learning.
+✨ Currently, I'm honing my skills in Java and Spring Boot to elevate myself to an enterprise level.
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 ### 🏗️  **Languages** 
-Python | JavaScript | HTML | CSS | SQL
+Java | Python | JavaScript | HTML | CSS | SQL
 
 ### 🖥️  **Frameworks & Libraries** 
-Bootstrap | Sass | Tailwind CSS | Flask 
+Spring | Spring Boot | Tailwind | Flask
 
 ### 📊  **Tools & Platforms** 
-Git | VS Code | Figma | Adobe Photoshop CS6
+IntelliJ | Git | VS Code | Figma | Adobe Photoshop CS6 
 
 ---
 
