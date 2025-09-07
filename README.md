@@ -18,7 +18,7 @@
 Java | Python | JavaScript | HTML | CSS | SQL
 
 ### 🖥️  **Frameworks & Libraries** 
-Spring/Spring Boot
+Spring/Spring Boot | TailwindCSS | Flask
 
 ### 📊  **Tools & Platforms** 
 IntelliJ | Git | VS Code | Figma | Adobe Photoshop CS6 
