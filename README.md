@@ -5,17 +5,11 @@ I'm currently studying Computer Science @ CSULB ('29)
 
 ### What I'm working on
 
-**[Covered](https://github.com/sageb18/covered)** - Just recently finished Covered, a constraint-based shift scheduling sandbox. Describe a team, some shifts, and the rules; 
-a Timefold solver finds a valid schedule or explains why none exists. 
+**[CSULB Profcheck](https://github.com/sageb18/csulb-profcheck)** — a Chrome extension that pulls Rate My Professor ratings inline into MyCSULB's class search, so you can see who's worth taking without opening a second tab.
 
-__Technologies:__
-Java · Spring Boot · React · Docker.
+### Tools I Use
 
-Currently: working through data structures and algorithms, and reading more code than I write.
-
-### Tools
-
-`Java` `Spring Boot` `PostgreSQL` `JavaScript` `React` `Git` `Docker`
+`Java` `Spring Boot` `PostgreSQL` `JavaScript/TypeScript` `React` `Git` `Docker`
 
 ### Elsewhere
 
