@@ -5,7 +5,7 @@ I'm currently studying Computer Science @ CSULB ('29)
 
 ### What I'm working on
 
-**[CSULB ProfCheck](https://github.com/sageb18/csulb-profcheck)** -- a Chrome extension that pulls Rate My Professor ratings inline into MyCSULB's class search, so you can see who's worth taking without opening a second tab.
+**[CSULB ProfCheck](https://github.com/sageb18/csulb-profcheck)** -- a Chrome extension that pulls Rate My Professor ratings directly into MyCSULB's class search, so you can see who's worth taking without opening a second tab.
 
 ### Tools I Use
 
